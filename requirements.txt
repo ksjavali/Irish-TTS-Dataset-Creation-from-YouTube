@@ -1,0 +1,7 @@
+google-api-python-client==2.120.0
+youtube-transcript-api==0.6.2
+yt-dlp==2023.12.30
+pydub==0.25.1
+ffmpeg==1.4
+stopwordsiso==0.6.1
+spacy==3.7.4
