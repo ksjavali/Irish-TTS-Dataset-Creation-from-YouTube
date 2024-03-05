@@ -1,4 +1,4 @@
-# CAMB_AI_Challenge
+# CAMB AI Challenge
 
 ## To create a virtual environment run the following commands in the terminal:
 
