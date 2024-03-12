@@ -1,4 +1,4 @@
-# Irish TTS Dataset Creation from YouTube
+# Data Science project: Irish TTS Dataset Creation from YouTube
 
 ## Introduction:
 This project aims to design and implement a data engineering pipeline specifically focused on the creation of a Text-to-Speech (TTS) dataset for the Irish language, leveraging publicly available content on YouTube. The significance of this work lies in its potential to enrich TTS technologies with high-quality, diverse datasets in less-represented languages such as Irish, contributing to the preservation and digital accessibility of these languages.
